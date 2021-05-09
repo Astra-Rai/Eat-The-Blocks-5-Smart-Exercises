@@ -1,1 +1,2 @@
-# Eat-The-Blocks-Solidity-Recipes-Exercises
+# Eat The Blocks Solidity Recipes Exercises
+
